@@ -1,0 +1,7 @@
+{
+  "name": "news-image-20261123",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The Global Ledger — Monday 23 November 2026: a one-page newspaper front page, shipped as a finished PNG that main.ts copies to the output directory."
+}
